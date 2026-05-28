@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authupdate",
+        "uuid": 1304172,
+        "checksum": "vf4kpv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
